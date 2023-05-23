@@ -2,16 +2,27 @@ project:
   type: website
 
 website:
-  title: "website"
+  title: "Matt Pomaville"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+      - publications.qmd
+    tools:
+      - icon: twitter
+        href: 
+      - icon: github
+        href: https://github.com/MPomaville
+      - icon: linkedin
+        href: https://www.linkedin.com/in/matt-p-109986b7/
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
