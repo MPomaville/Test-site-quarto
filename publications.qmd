@@ -1,5 +1,29 @@
 ---
-title: "Publications"
+title: "Publications & Projects"
 ---
+# Development of Low-threshold Mechanoreceptor Innervation in Mice
 
-Lorem ipsum
+* **Pomaville MB**, Wright KM. Follicle-innervating Aδ-low threshold mechanoreceptive neurons form receptive fields through homotypic competition. Neural Dev. 2023 Apr 27;18(1):2. doi: [10.1186/s13064-023-00170-2](https://doi.org/10.1186/s13064-023-00170-2). PubMed PMID: 37106422; PubMed Central PMCID: PMC10134579.
+
+* **Pomaville MB**, Wright KM. Immunohistochemical and Genetic Labeling of Hairy and Glabrous Skin Innervation. Curr Protoc. 2021 May;1(5):e121. doi: [10.1002/cpz1.121](https://doi.org/10.1002/cpz1.121). PubMed PMID: 33950580; PubMed Central PMCID: PMC8162737. 
+
+# Spatial Learning in *Periplaneta americana* & *Drosophila melanogaster*
+
+* **Pomaville MB**, Lent DD. Multiple Representations of Space by the Cockroach, Periplaneta americana. Front Psychol. 2018;9:1312. doi: [10.3389/fpsyg.2018.01312](https://doi.org/10.3389/fpsyg.2018.01312). eCollection 2018. PubMed PMID: 30104993; PubMed Central PMCID: PMC6077775. 
+
+# Other Projects
+
+## Using Primary Mouse Sensory Neuron Culture to Assess Drug-induced Axon Death
+In collaboration with the Nechiporuk Lab at OHSU, I performed neuron outgrowth assays on primary embryonic mouse dorsal root ganglia explants to test the neuropathic effect of various kinase-inhibiting drugs.
+
+* Tuttle AM, **Pomaville MB**, Delgado KC, Wright KM, Nechiporuk AV. c-Kit Receptor Maintains Sensory Axon Innervation of the Skin through Src Family Kinases. J Neurosci. 2022 Jul 25;. doi: [10.1523/JNEUROSCI.0618-22.2022](https://doi.org/10.1523/jneurosci.0618-22.2022). PubMed PMID: 35882558; PubMed Central PMCID: PMC9464017.
+
+## Characterization of embryonic mouse innervation development
+In collaboration with the Cohen Lab at OHSU, I used whole-tissue clearing, immunohistochemistry, and imaging to assess the effect of loss of poly(ADP-ribose) polymerase 6 (PARP6) on mouse neuron growth and maintenance during embryonic development.
+
+* Vermehren-Schmaedick A, Huang JY, Levinson M, **Pomaville MB**, Reed S, Bellus GA, Gilbert F, Keren B, Heron D, Haye D, Janello C, Makowski C, Danhauser K, Fedorov LM, Haack TB, Wright KM, Cohen MS. Characterization of PARP6 Function in Knockout Mice and Patients with Developmental Delay. Cells. 2021 May 22;10(6). doi: [10.3390/cells10061289](https://doi.org/10.3390/cells10061289). PubMed PMID: 34067418; PubMed Central PMCID: PMC8224619.
+
+## Genomics of *de novo* Autism Spectrum Disorder
+While a Simons Foundation Autism Research Initiative (SFARI) summer intern in the O'Roak Lab at OHSU I generated a series of CRISPR carrying lentiviral vectors for *in vitro* gene editing of high confidence Autism Spectrum Disorder (ASD) risk genes in mammalian cells. Additionally, I co-authored a review on the emerging role of Chromodomain helicase binding protein 8 (CHD8) in *de novo* ASD.
+
+* Barnard RA, **Pomaville MB**, O'Roak BJ. Mutations and Modeling of the Chromatin Remodeler CHD8 Define an Emerging Autism Etiology. Front Neurosci. 2015;9:477. doi: [10.3389/fnins.2015.00477](https://doi.org/10.3389/fnins.2015.00477). eCollection 2015. Review. PubMed PMID: 26733790; PubMed Central PMCID: PMC4681771.

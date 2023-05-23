@@ -11,14 +11,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a developmental biologist interested in the cellular processes that guide form and function in living things."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Publications & Projects",
     "section": "",
-    "text": "Lorem ipsum"
+    "text": "Pomaville MB, Wright KM. Follicle-innervating Aδ-low threshold mechanoreceptive neurons form receptive fields through homotypic competition. Neural Dev. 2023 Apr 27;18(1):2. doi: 10.1186/s13064-023-00170-2. PubMed PMID: 37106422; PubMed Central PMCID: PMC10134579.\nPomaville MB, Wright KM. Immunohistochemical and Genetic Labeling of Hairy and Glabrous Skin Innervation. Curr Protoc. 2021 May;1(5):e121. doi: 10.1002/cpz1.121. PubMed PMID: 33950580; PubMed Central PMCID: PMC8162737."
   },
   {
     "objectID": "resume.html",
@@ -26,5 +26,26 @@
     "title": "Resume",
     "section": "",
     "text": "Lorem ipsum"
+  },
+  {
+    "objectID": "publications.html#characterization-of-embryonic-mouse-innervation-development",
+    "href": "publications.html#characterization-of-embryonic-mouse-innervation-development",
+    "title": "Publications & Projects",
+    "section": "Characterization of embryonic mouse innervation development",
+    "text": "Characterization of embryonic mouse innervation development\nIn collaboration with the Cohen Lab at OHSU, I used whole-tissue clearing, immunohistochemistry, and imaging to assess the effect of loss of poly(ADP-ribose) polymerase 6 (PARP6) on mouse neuron growth and maintenance during embryonic development.\n\nVermehren-Schmaedick A, Huang JY, Levinson M, Pomaville MB, Reed S, Bellus GA, Gilbert F, Keren B, Heron D, Haye D, Janello C, Makowski C, Danhauser K, Fedorov LM, Haack TB, Wright KM, Cohen MS. Characterization of PARP6 Function in Knockout Mice and Patients with Developmental Delay. Cells. 2021 May 22;10(6). doi: 10.3390/cells10061289. PubMed PMID: 34067418; PubMed Central PMCID: PMC8224619."
+  },
+  {
+    "objectID": "publications.html#using-primary-mouse-sensory-neuron-culture-to-assess-drug-induced-axon-death",
+    "href": "publications.html#using-primary-mouse-sensory-neuron-culture-to-assess-drug-induced-axon-death",
+    "title": "Publications & Projects",
+    "section": "Using Primary Mouse Sensory Neuron Culture to Assess Drug-induced Axon Death",
+    "text": "Using Primary Mouse Sensory Neuron Culture to Assess Drug-induced Axon Death\nIn collaboration with the Nechiporuk Lab at OHSU, I performed neuron outgrowth assays on primary embryonic mouse dorsal root ganglia explants to test the neuropathic effect of various kinase-inhibiting drugs.\n\nTuttle AM, Pomaville MB, Delgado KC, Wright KM, Nechiporuk AV. c-Kit Receptor Maintains Sensory Axon Innervation of the Skin through Src Family Kinases. J Neurosci. 2022 Jul 25;. doi: 10.1523/JNEUROSCI.0618-22.2022. PubMed PMID: 35882558; PubMed Central PMCID: PMC9464017."
+  },
+  {
+    "objectID": "publications.html#genomics-of-de-novo-autism-spectrum-disorder",
+    "href": "publications.html#genomics-of-de-novo-autism-spectrum-disorder",
+    "title": "Publications & Projects",
+    "section": "Genomics of de novo Autism Spectrum Disorder",
+    "text": "Genomics of de novo Autism Spectrum Disorder\nWhile a Simons Foundation Autism Research Initiative (SFARI) summer intern in the O’Roak Lab at OHSU I generated a series of CRISPR carrying lentiviral vectors for in vitro gene editing of high confidence Autism Spectrum Disorder (ASD) risk genes in mammalian cells. Additionally, I co-authored a review on the emerging role of Chromodomain helicase binding protein 8 (CHD8) in de novo ASD.\n\nBarnard RA, Pomaville MB, O’Roak BJ. Mutations and Modeling of the Chromatin Remodeler CHD8 Define an Emerging Autism Etiology. Front Neurosci. 2015;9:477. doi: 10.3389/fnins.2015.00477. eCollection 2015. Review. PubMed PMID: 26733790; PubMed Central PMCID: PMC4681771."
   }
 ]
