@@ -1,3 +1,36 @@
 ---
 title: "Matt Pomaville, PhD"
+image: profile.jpeg
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/matt-p-109986b7/
+    - icon: twitter
+      text: twitter
+      href: h
+    - icon: github
+      text: Github
+      href: https://github.com/MPomaville
 ---
+
+Matt is a developmental and cellular biologist with an interest in understanding how cell-level processes shape organisms through genetic tools and live imaging. He is currently working on deciphering the mechanisms involved in balancing apoptosis and senescence in the short-lived African Turquoise Killifish, *Nothobranchius furzeri*. Outside of lab, Matt is an avid photographer, cook, and hiker.
+
+## Education
+
+**Oregon Health & Science University** | Portland, OR  
+PhD in Cell and Developmental Biology  
+September 2016 -- September 2022
+
+**California State University, Fresno** | Fresno, CA  
+BS in Biology, Minor in Physical Sciences, *Magna cum laude*  
+August 2012 -- June 2016
+
+## Experience
+
+**Postdoctoral Fellow** | Abitua Lab, Dept of Genome Sciences | University of Washington  
+January 2023 -- Present
+
+**Graduate Student Researcher** | Wright Lab, Vollum Institute | Oregon Health & Science University  
+September 2016 -- October 2022

@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Matt Pomaville"
 ---
 
 I am a developmental biologist interested in the cellular processes that guide form and function in living things.

@@ -12,13 +12,6 @@ website:
       - about.qmd
       - resume.qmd
       - publications.qmd
-    tools:
-      - icon: twitter
-        href: 
-      - icon: github
-        href: https://github.com/MPomaville
-      - icon: linkedin
-        href: https://www.linkedin.com/in/matt-p-109986b7/
 
 format:
   html:

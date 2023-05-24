@@ -2,14 +2,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Matt Pomaville",
+    "title": "Matt Pomaville, PhD",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Matt is a developmental and cellular biologist with an interest in understanding how cell-level processes shape organisms through genetic tools and live imaging. He is currently working on deciphering the mechanisms involved in balancing apoptosis and senescence in the short-lived African Turquoise Killifish, Nothobranchius furzeri. Outside of lab, Matt is an avid photographer, cook, and hiker."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Matt Pomaville",
     "section": "",
     "text": "I am a developmental biologist interested in the cellular processes that guide form and function in living things."
   },
@@ -47,5 +47,19 @@
     "title": "Publications & Projects",
     "section": "Genomics of de novo Autism Spectrum Disorder",
     "text": "Genomics of de novo Autism Spectrum Disorder\nWhile a Simons Foundation Autism Research Initiative (SFARI) summer intern in the O’Roak Lab at OHSU I generated a series of CRISPR carrying lentiviral vectors for in vitro gene editing of high confidence Autism Spectrum Disorder (ASD) risk genes in mammalian cells. Additionally, I co-authored a review on the emerging role of Chromodomain helicase binding protein 8 (CHD8) in de novo ASD.\n\nBarnard RA, Pomaville MB, O’Roak BJ. Mutations and Modeling of the Chromatin Remodeler CHD8 Define an Emerging Autism Etiology. Front Neurosci. 2015;9:477. doi: 10.3389/fnins.2015.00477. eCollection 2015. Review. PubMed PMID: 26733790; PubMed Central PMCID: PMC4681771."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Matt Pomaville, PhD",
+    "section": "Education",
+    "text": "Education\nOregon Health & Science University | Portland, OR\nPhD in Cell and Developmental Biology\nSeptember 2016 – September 2022\nCalifornia State University, Fresno | Fresno, CA\nBS in Biology, Minor in Physical Sciences, Magna cum laude\nAugust 2012 – June 2016"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Matt Pomaville, PhD",
+    "section": "Experience",
+    "text": "Experience\nPostdoctoral Fellow | Abitua Lab, Dept of Genome Sciences | University of Washington\nJanuary 2023 – Present\nGraduate Student Researcher | Wright Lab, Vollum Institute | Oregon Health & Science University\nSeptember 2016 – October 2022"
   }
 ]
